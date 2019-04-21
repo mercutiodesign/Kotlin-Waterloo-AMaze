@@ -1,6 +1,6 @@
-package main.kotlin.amaze.core.assets
+package amaze.core.assets
 
-import main.kotlin.amaze.core.ScreenManager
+import amaze.core.ScreenManager
 import java.awt.Graphics2D
 import java.awt.image.BufferedImage
 

@@ -1,4 +1,4 @@
-package main.kotlin.amaze.core
+package amaze.core
 
 import java.awt.event.KeyEvent
 import java.awt.event.KeyListener

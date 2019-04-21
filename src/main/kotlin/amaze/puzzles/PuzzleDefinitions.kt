@@ -1,4 +1,4 @@
-package main.kotlin.amaze.puzzles
+package amaze.puzzles
 
 val puzzles = listOf(
     """

@@ -1,7 +1,7 @@
-package main.kotlin.amaze.core
+package amaze.core
 
-import main.kotlin.amaze.Maze
-import main.kotlin.amaze.core.assets.Images
+import amaze.Maze
+import amaze.core.assets.Images
 
 /**
  * The [GameController] connects everything together.  It configures the input management, sets up the screen,

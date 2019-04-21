@@ -1,14 +1,14 @@
-package main.kotlin.amaze
+package amaze
 
-import main.kotlin.amaze.LlamaOrientation.*
-import main.kotlin.amaze.core.assets.Images
-import main.kotlin.amaze.entity.Entity
+import amaze.LlamaOrientation.*
+import amaze.core.assets.Images
+import amaze.entity.Entity
 import java.awt.Color
 import java.awt.Graphics2D
 import java.awt.image.BufferedImage
 import kotlin.math.min
 
-private const val MILLIS_PER_MOVE = 1_000L
+private const val MILLIS_PER_MOVE = 200L
 
 class Maze(
     private val entityGrid: Array<Array<Entity>>,

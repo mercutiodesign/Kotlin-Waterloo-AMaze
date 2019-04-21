@@ -1,6 +1,6 @@
-package main.kotlin.amaze.core.assets
+package amaze.core.assets
 
-import main.kotlin.amaze.core.assets.Sound.*
+import amaze.core.assets.Sound.*
 import javax.sound.sampled.AudioSystem
 
 private const val SOUND_PATH = "/sound"

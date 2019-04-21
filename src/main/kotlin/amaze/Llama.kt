@@ -1,7 +1,7 @@
-package main.kotlin.amaze
+package amaze
 
-import main.kotlin.amaze.LlamaState.*
-import main.kotlin.amaze.core.assets.Images
+import amaze.LlamaState.*
+import amaze.core.assets.Images
 import java.awt.AlphaComposite
 import java.awt.Graphics2D
 import java.awt.image.BufferedImage

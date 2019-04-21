@@ -1,4 +1,4 @@
-package main.kotlin.amaze.core
+package amaze.core
 
 const val NANOS_PER_MILLI = 1_000_000L
 const val NANOS_PER_SECOND = 1_000L * NANOS_PER_MILLI

@@ -1,6 +1,6 @@
-package main.kotlin.amaze
+package amaze
 
-import main.kotlin.amaze.entity.*
+import amaze.entity.*
 import java.awt.Graphics2D
 
 private const val START_BLOCK = 'S'

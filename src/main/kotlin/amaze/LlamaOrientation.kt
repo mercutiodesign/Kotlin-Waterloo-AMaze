@@ -1,4 +1,4 @@
-package main.kotlin.amaze
+package amaze
 
 enum class LlamaOrientation(val radians: Double, val xDirection: Double, val yDirection: Double) {
     NORTH(0.0, 0.0, -1.0),
