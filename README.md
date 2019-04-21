@@ -1,7 +1,7 @@
 # Kotlin-Waterloo-AMaze
 Coding session for the [Kotlin Waterloo P2P Group].
 
-![picture](/src/resources/images/Capture.PNG)
+![picture](/src/main/resources/images/Capture.PNG)
 
 ### Setup Instructions:
 1. Ensure that you have the [Java 8 SDK] installed (the JRE is not enough)

@@ -3,7 +3,7 @@ package main.kotlin.amaze.core.assets
 import main.kotlin.amaze.core.assets.Sound.*
 import javax.sound.sampled.AudioSystem
 
-private const val SOUND_PATH = "/resources/sound"
+private const val SOUND_PATH = "/sound"
 
 enum class Sound(name: String) {
     DYING("llama_dying.wav"),

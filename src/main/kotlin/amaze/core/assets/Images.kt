@@ -4,7 +4,7 @@ import main.kotlin.amaze.core.ScreenManager
 import java.awt.Graphics2D
 import java.awt.image.BufferedImage
 
-private const val IMAGE_PATH = "/resources/images"
+private const val IMAGE_PATH = "/images"
 
 object Images {
     lateinit var llama: BufferedImage
