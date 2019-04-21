@@ -1,3 +1,13 @@
 /out
 *.iml
 /.idea
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+/build
+
+# ignore VS Code config
+.vscode
+.project
